@@ -2,9 +2,7 @@
 Snappy is chat application build with the power of MERN Stack. 
 
 
-![login page](./images/snappy_login.png)
-
-![home page](./images/snappy.png)
+!home page]https://github.com/aditibh19/Snappy/blob/main/chat-app-react-nodejs-master/images/snappy.png
 
 ## Installation Guide
 
